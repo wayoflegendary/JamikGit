@@ -1,2 +1,3 @@
 print("Hello world")
-print(2)
+a = 25
+print(a)
